@@ -1,0 +1,3 @@
+# Restrict changes to restricted_file.txt to user "Example"
+/restricted_file.txt @bha1212002
+
